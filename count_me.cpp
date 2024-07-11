@@ -29,5 +29,5 @@ int main() {
         // Print the most frequent word and its frequency
         cout << ans << " " << maxWord << endl;
     }
-    return 0; // Return 0 to indicate successful execution
+    return 0; 
 }

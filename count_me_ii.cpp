@@ -62,5 +62,5 @@ int main()
         // Print the most frequent element and its frequency
         cout << minV << " " << maxCount << endl;
     }
-    return 0; // Return 0 to indicate successful execution
+    return 0; 
 }
